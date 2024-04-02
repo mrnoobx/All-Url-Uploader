@@ -21,6 +21,6 @@ filesplit==4.0.0
 mega.py
 opencc
 wget
-youtube_dl
+youtube_dl==2023.10.07
 Flask==2.3.2
 gunicorn==20.1.0
